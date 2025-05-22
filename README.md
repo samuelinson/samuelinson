@@ -28,4 +28,14 @@ sou um estudante de redes de computadores no Senai de informática, onde tive co
 <p align= "center">  
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  
 </p>
+
+
+
+##🥇 Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CISCO ITN](https://img.shields.io/badge/CISCO_CCNA_ITN-t?style=for-the-badge&logo=cisco&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Ffaafb6ef-e8e3-4fb2-b824-e88448720b1c%2Fpublic_url) | CISCO INTRODUTION TO NETWORKS |
+| ![AWS CF](https://img.shields.io/badge/AWS_Cloud_Foundations-t?style=for-the-badge&logo=amazonwebservices&logoColor=black&color=orange&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F86350165-b271-4c10-bde1-c3a44282b506%2Fpublic_url) | AWS Academy Cloud Foundations |
