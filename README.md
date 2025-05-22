@@ -10,7 +10,7 @@
 
 <img align="right" height= "190" src="https://cdn.pixabay.com/animation/2024/04/14/23/56/23-56-18-870_512.gif"> 
 
-sou uma estudante de redes de computadores no Senai de informática, onde tive contato com as principais tecnologias da área de Nuvem como AWS, Azure e outras ferramentas como: VMWare, Zabbix, Grafana, Git e GitHub, PFsense e tecnoloigas voltadas à Cisco
+sou um estudante de redes de computadores no Senai de informática, onde tive contato com as principais tecnologias da área de Nuvem como AWS, Azure e outras ferramentas como: VMWare, Zabbix, Grafana, Git e GitHub, PFsense e tecnoloigas voltadas à Cisco
 
 <br>
 <br>
